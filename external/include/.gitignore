@@ -8,8 +8,6 @@
 /mcs.h
 /rw_ttas.h
 /spinlock.h
-/ssmem.h
 /ssmp.h
-/sspfd.h
 /ticket.h
 /ttas.h
